@@ -2,7 +2,7 @@ employee_data.csv holds employee records
 
 Python Data Cleaning:
 
-<p><img src="original"></p>
+<p><img src="original.jpg"></p>
 
 convert and export the data to use the following format instead:
 
